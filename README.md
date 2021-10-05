@@ -6,6 +6,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning JS | ReactJS | Django
 - 👯 I’m looking to collaborate on open source projects
 - 💬 Ask me about anything
+- <img alt="Logo" align="right" src="https://create-react-app.dev/img/logo.svg" width="20%" />
 ### 📩 Connect with me:
 
 [<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
