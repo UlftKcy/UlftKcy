@@ -5,7 +5,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on full-stack development
-- 🌱 I’m currently learning JS | ReactJS | Django
+- 🌱 I’m currently learning JS | ReactJS | Django | PostgreSQL
 - 👯 I’m looking to collaborate on open source projects
 - 💬 Ask me about anything
 ### 📩 Connect with me:
