@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=UlftKcy&show_icons=true&theme=radical)
 
-![Github stats 1](https://github-readme-stats.vercel.app/api?username=UlftKcy&show_icons=true&theme=gradient)
+<img src="gorsel-link" width="auto">
 
 
