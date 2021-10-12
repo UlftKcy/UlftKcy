@@ -4,8 +4,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Full-Stack Development
-- 🌱 I’m currently learning JS | ReactJS | Django | PostgreSQL
+- 🔭 I’m currently working on Front-En Development | Javascript | ReactJS
+- 🌱 I’m currently learning  Django | PostgreSQL
 - 👯 I’m looking to collaborate on open source projects
 - 💬 Ask me about anything
 ### 📩 Connect with me:
@@ -20,3 +20,5 @@ Here are some ideas to get you started:
 <br />
 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=UlftKcy&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
