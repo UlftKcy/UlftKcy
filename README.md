@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <br />
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=UlftKcy&show_icons=true&theme=radical)
 <div align="center">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UlftKcy&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=UlftKcy&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UlftKcy&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
