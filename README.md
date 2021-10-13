@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 [linkedin]: https://www.linkedin.com/in/%C3%BClfet-kacay/
 [gmail]: mailto:ukacay87@gmail.com
 <br />
-
+![Github stats 2](https://github-readme-stats.vercel.app/api?username=UlftKcy&show_icons=true&theme=radical)
 <div align="center">
-  ![Github stats 2](https://github-readme-stats.vercel.app/api?username=UlftKcy&show_icons=true&theme=radical)
+  
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UlftKcy&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
