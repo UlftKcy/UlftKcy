@@ -2,8 +2,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Front-End Development | Javascript | ReactJS | VueJS
-- 🌱 I’m currently learning  VueJS 
+- 🔭 I’m currently working on Front-End Development | Javascript | ReactJS | VueJS | Typescript
+- 🌱 I’m currently learning  Typescript
 - 👯 I’m looking to collaborate on open source projects
 - 💬 Ask me about anything
 ### 📩 Connect with me:
