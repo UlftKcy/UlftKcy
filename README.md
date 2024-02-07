@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ulfet</h1>
 <h3 align="center">Frontend developer from Turkey</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ulftkcy&label=Profile%20views&color=0e75b6&style=flat" alt="ulftkcy" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ulftkcy" alt="ulftkcy" /></a> </p>
-
 - 🔭 I’m currently working on **Javascript | Typescript | ReactJS | NextJS**
 
 - 🌱 I’m currently learning **React Native**
