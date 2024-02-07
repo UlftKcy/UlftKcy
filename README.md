@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 👯 I’m looking to collaborate on **source projects**
+- 👯 I’m looking to collaborate on **open source projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/UlftKcy?tab=repositories](https://github.com/UlftKcy?tab=repositories)
 
