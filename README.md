@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ulfet</h1>
-<h3 align="center">Frontend developer from Turkey</h3>
+<h1 align="left">Hi 👋, I'm Ulfet</h1>
+<h3 align="left">Frontend developer</h3>
 
 - 🔭 I’m currently working on **Javascript | Typescript | ReactJS | NextJS**
 
