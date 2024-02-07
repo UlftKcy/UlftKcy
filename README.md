@@ -7,8 +7,6 @@
 
 - 👯 I’m looking to collaborate on **open source projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/UlftKcy?tab=repositories](https://github.com/UlftKcy?tab=repositories)
-
 - 💬 Ask me about **Javascript | Typescript | ReactJS | NextJS**
 
 - 📫 How to reach me **ukacay87@gmail.com**
